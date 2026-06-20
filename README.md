@@ -7,7 +7,7 @@
   <img alt="Language" src="https://img.shields.io/badge/language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img alt="UI" src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
   <img alt="Status" src="https://img.shields.io/badge/status-Beta-orange?style=for-the-badge">
-  <img alt="Version" src="https://img.shields.io/badge/version-v0.1.0-blue?style=for-the-badge">
+  <img alt="Version" src="https://img.shields.io/badge/version-v0.1.1-blue?style=for-the-badge">
 </p>
 
 ---
